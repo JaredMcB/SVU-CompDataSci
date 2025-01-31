@@ -1,5 +1,5 @@
 # SVU-CompDataSci
-A repository for the the computational data science class at Southern Virginia University.
+A repository for the computational data science class at Southern Virginia University.
 
 ## Words to Live By
 
