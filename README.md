@@ -7,3 +7,5 @@ _“If you ever drop your keys in molten lava, let ‘em go because, man . . . t
 <p align=right> -Jack Handy </p> 
 
 
+_“I love deadlines. I like the whooshing sound they make as they fly by.”_
+<p align=right> -Douglas Adams </p>
