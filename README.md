@@ -6,4 +6,5 @@ A repository for the computational data science class at Southern Virginia Unive
 _“If you ever drop your keys in molten lava, let ‘em go because, man . . . they’re gone.”_
 <p align=right> -Jack Handy </p> 
 
-
+_"When in doubt, look intelligent."_
+<p align=right> -Garrison Keillor </p>
