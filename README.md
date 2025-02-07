@@ -14,3 +14,5 @@ _"When in doubt, look intelligent."_
 _“I love deadlines. I like the whooshing sound they make as they fly by.”_
 <p align=right> -Douglas Adams </p>
 
+_"You may not always know the best thing to do, but you better be doing something"_ 
+<p align=right> -Sheriff Tak-Tha </p>
