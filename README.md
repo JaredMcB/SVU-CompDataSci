@@ -20,3 +20,6 @@ _"When in doubt, look intelligent."_
 _“I love deadlines. I like the whooshing sound they make as they fly by.”_
 <p align=right> -Douglas Adams </p>
 
+_"It seems impossible until it's done"_
+<p align=right> -Nelson Mandela </p>
+
