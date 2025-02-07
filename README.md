@@ -15,4 +15,3 @@ _"When in doubt, look intelligent."_
 
 _“I love deadlines. I like the whooshing sound they make as they fly by.”_
 <p align=right> -Douglas Adams </p>
-
