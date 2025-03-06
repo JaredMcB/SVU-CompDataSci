@@ -20,8 +20,15 @@ _"When in doubt, look intelligent."_
 _“I love deadlines. I like the whooshing sound they make as they fly by.”_
 <p align=right> -Douglas Adams </p>
 
+
+_"It seems impossible until it's done"_
+<p align=right> -Nelson Mandela </p>
+
+
 _"If you can change your mind, you can change your life."_
 <p align=right> -William James </p>
 
+
 _"If they ain't played the game, dont listen."_
 <p align=right> -Jon Stauffer</p>
+
