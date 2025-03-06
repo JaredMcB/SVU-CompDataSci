@@ -23,3 +23,5 @@ _“I love deadlines. I like the whooshing sound they make as they fly by.”_
 _"If you can change your mind, you can change your life."_
 <p align=right> -William James </p>
 
+_"If they ain't played the game, dont listen."_
+<p align=right> -Jon Stauffer</p>
