@@ -32,3 +32,6 @@ _"If you can change your mind, you can change your life."_
 _"If they ain't played the game, dont listen."_
 <p align=right> -Jon Stauffer</p>
 
+
+_"Driving a race car is like dancing with a chainsaw"_
+<p align=right> -Cale Yarborough</p>
